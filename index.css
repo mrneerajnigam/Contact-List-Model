@@ -1,0 +1,48 @@
+*{
+    margin: 0px 0px 10px 0px;
+    font-family: tahoma;
+    
+}
+.container{
+    width: 350px;
+    height: 600px;
+    border: 5px solid black;
+    margin: 0 auto;
+    overflow: scroll;
+    padding: 40px;
+    background-color: aqua;
+    padding:0px 0px 0px 10px ;
+
+}
+
+
+.contactholder  h1{
+    position: sticky; 
+    top:0px;
+    padding: 5px;
+    width: 95%;
+    border-radius: 7px;
+    border: 1px solid black;
+    background-color: red;
+}
+p{
+    width: 90%;
+    height: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding:0px 0px 10px 5px;
+    background-color: rgb(118, 118, 248);
+    color: white;    
+}
+
+
+.head h1{
+    width: 90%;
+    height: 50px;
+    border:5px solid orangered;
+    text-align: center;
+    background-color: rgb(255, 173, 20);
+}
+.head{
+    margin-left:150px;
+}
